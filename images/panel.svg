@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="panel.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective3221"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4825"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="20"
+       height="20"
+       patternTransform="translate(480.71429,371.64789)"
+       id="pattern4831">
+      <image
+         xlink:href="cluster.png"
+         sodipodi:absref="C:\Documents and Settings\mfurr.000\Desktop\scca website\images\cluster.png"
+         width="20"
+         height="20"
+         id="image4827"
+         x="0"
+         y="0" />
+    </pattern>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="259.31703"
+     inkscape:cy="489.29736"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="744"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <image
+       y="88.076462"
+       x="422.85715"
+       id="image3223"
+       height="800"
+       width="1280"
+       sodipodi:absref="C:\Documents and Settings\mfurr.000\Desktop\page screenshot.gif"
+       xlink:href="C:\Documents and Settings\mfurr.000\Desktop\page screenshot.gif" />
+    <path
+       style="fill:url(#pattern4831);fill-rule:evenodd;stroke:#1d1d1d;stroke-width:5.09999999999999960;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1.0;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 338.57143,435.93361 L 162.85714,435.93361 C 126.94204,436.27073 109.44296,461.63345 109.28571,492.36218 C 109.23848,525.3557 132.01582,536.9433 132.14285,548.07647 C 132.00475,561.20503 109.69816,565.72075 109.28571,605.21932 C 110.23096,641.61109 133.16686,646.32305 132.85714,658.79076 C 133.18898,669.09822 109.44736,684.69755 110,714.50504 C 109.29085,743.7254 137.48886,784.27281 168.57143,796.6479 C 176.70647,813.31457 172.77742,846.4098 190.71428,846.64789 L 340,847.36219 L 338.57143,435.93361 z"
+       id="path3227"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-xdpi="60.000004"
+       inkscape:export-ydpi="60.000004"
+       inkscape:export-filename="C:\Documents and Settings\mfurr.000\Desktop\scca website\images\panel.png" />
+    <rect
+       style="stroke:none;fill:url(#pattern4831)"
+       width="20"
+       height="20"
+       x="480.71429"
+       y="371.64789"
+       id="rect4834" />
+  </g>
+</svg>
