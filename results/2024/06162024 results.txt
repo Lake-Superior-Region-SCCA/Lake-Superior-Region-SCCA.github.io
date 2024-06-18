@@ -1,0 +1,70 @@
+Class	Number	CW	First Name	Last Name	Car Model	Car Color	Class 2	Grid #	Member	Member #	Expires	DOB	Age	Registered	Reg.CheckIn	OLR	Paid	Fee Type	Amnt.	Method	Annual Tech	Annual Waiver	Rookie	Run Heat	Work Heat	Work Assignment	Checkin	Sponsor	Tire Brand	Raw Time	Raw Pos.	Prev. Pos.	Total	Diff.	From 1st	Pax Time	Pax Pos.	Best Run	Run 1	Pen 1	Run 2	Pen 2	Run 3	Pen 3	Run 4	Pen 4	
+hcr	33	35	Steve	Alger	1964 Triumph Spitfire	Black			Yes	322235	01/31/25			Yes	No	Yes	Yes		90.00	PrePaid	No	No	No	2	1		No			50.857	48	1	50.857	-	-	41.448	45	4	56.915	dnf	53.092	dnf	51.771	dnf	50.857		
+ladiesfs	92	50	Kami	Bailey	2018 Ford Mustang	Red			Yes	666571	09/30/24			Yes	No	Yes	Yes		80.00	PrePaid	No	No	No	2	1		No			50.460	40	4	41.074	+0.017	+3.427	41.074	41	3	53.819		50.844	dnf	48.460	1	47.686	2	
+hs	7	9	Douglas	Banyai	2024 Mazda 3	Grey			Yes	542822	09/30/24			Yes	No	Yes	Yes		110.00	PrePaid	No	No	No	1	2		No			50.941	49	1	50.941	-	-	40.039	34	3	53.511	dnf	51.908		50.941		51.164		
+cs	23	4	Norman	Berry	2007 Mazda RX-8	Orange			Yes	711152	07/31/24			Yes	No	Yes	Yes		80.00	PrePaid	No	No	No	2	1		No			47.960	29	2	47.960	+3.018	+3.018	38.991	26	4	49.353		48.405		47.961		47.960		
+profsp	27	51	Andrew	Blasiman	1983 Volkswagen Rabbit GTI	White			Yes	404324	02/28/25			No	No	Yes	Yes		80.00	PrePaid	No	No	No	1	2		No		Hoosier		68	5	dns				68										
+procp	1	51	Caius	Boboescu	Regal	Blue			Yes	499669	2025-03-31	0000-00-00		Yes	No	Yes	Yes		90.00	PrePaid	No	No	No	1	2		No			45.641	18	18	39.068	+0.082	+4.114	39.068	27	4	50.142		46.180		46.968		45.641		
+ladiesfs	192	50	Jackie	Boboescu	Ford Mustang	Red			Yes	499670	2025-03-31	0000-00-00		Yes	No	Yes	Yes		90.00	PrePaid	No	No	No	2	1		No			46.552	24	2	37.893	+0.246	+0.246	37.893	16	4	46.710		46.693		46.872		46.552		
+procamc	128	51	Sean	Bremer	Ford Mustang	White			Yes	682114	2024-06-30	0000-00-00		Yes	No	Yes	Yes		85.00	PrePaid	No	No	No	1	2		No		Falken	45.197	14	9	37.332	+0.004	+2.378	37.332	12	3	48.245		46.565		45.197		45.353	1	
+fm	74	46	Tom	Buckman	1986 Red Devil Phaneuf	Blue			Yes	322941	01/31/25			No	No	Yes	Yes		85.00	PrePaid	No	No	No	2	1		No		Hoosier		65	3	dns				65										
+stx	184	14	Michael	Carpenter	2005 BMW 325xi	Blue			No	660772	06/13/23			Yes	No	Yes	Yes		100.00	PrePaid	No	No	No	1	2		No			50.774	46	3	50.774	+0.385	+6.022	41.583	46	3	55.151	1	50.884		50.774		59.488	1	
+pross	20	51	Jesse	Coates	Chevrolet Corvette	Riptide Blue			Yes	660780	07/31/24			Yes	No	Yes	Yes		100.00	PrePaid	No	No	No	1	2		No			45.958	21	13	38.374	+0.211	+3.420	38.374	20	4	51.144		46.853		46.100		45.958		
+prodsp	98	51	David	Colletti	2004 Mazda RX8	Black			Yes	458165	07/31/24			Yes	No	Yes	Yes		90.00	PrePaid	No	No	No	1	2		No		Hoosier	41.269	5	1	34.954	[-]0.712	-	34.954	1	4	43.189		41.995		41.423		41.269		
+ladiescs	83	50	Mina	Danhoff	2007 Mazda RX-8	Orange			Yes	709580	07/31/24			Yes	No	Yes	Yes		80.00	PrePaid	No	No	No	2	1		No			50.501	41	4	41.057	+1.100	+3.410	41.057	40	4	51.377		51.344		50.729		50.501		
+camc	71	24	Adam	Dettloff	2019 Chevrolet Camaro	White			Yes	485717	05/31/25			No	No	Yes	Yes		40.00	PrePaid	No	No	No	2	1		No				59	1	dns				59										
+bm	52	42	Donald	Elzinga Jr	1997 Van Diemen RF97	Silver			Yes	243612_0	05/31/25			Yes	No	Yes	Yes		90.00	PrePaid	No	No	No	2	1		No		Hoosier	39.806	2	1	39.806	-	-	38.930	24	4	42.474		41.085		42.543	3	39.806		
+procamc	28	51	David	Feighner	2015 Ford Mustang	White			Yes	178219	02/28/25			Yes	No	Yes	Yes		80.00	PrePaid	No	No	No	1	2		No		Bridgestone	43.242	7	2	35.717	+0.051	+0.763	35.717	3	4	45.390	dnf	44.421		43.663		43.242		
+ladiescamc	28	50	Lorien	Feighner	2015 Ford Mustang	White			Yes	195858	02/28/25			Yes	No	Yes	Yes		80.00	PrePaid	No	No	No	2	1		No		Bridgestone	45.578	16	1	37.647	[-]0.246	-	37.647	14	3	46.582	1	45.717	1	45.578		45.609	1	
+camt	42	23	Kent	Ferrier	2002 Ford Mustang	Laser Red			Yes	426997	01/31/25			Yes	No	Yes	Yes		90.00	PrePaid	No	No	No	2	1		No		Falken	49.751	36	1	49.751	-	-	40.795	37	4	52.065	1	50.632		50.043		49.751		
+str	2	15	Brian	Gratton	1987 Pontiac Fiero GT	Blue			No	667354	05/28/24			No	No	Yes	Yes		120.00	PrePaid	No	No	No	1	2		No		Falken		57	2	dns				57										
+procs	41	51	Kevin	Gu	Mazda Miata	White			Yes	444312	2024-06-30	0000-00-00		Yes	No	Yes	Yes		90.00	PrePaid	No	No	No	1	2		No			45.914	20	9	37.328	+0.033	+2.374	37.328	11	4	46.956		46.720		46.246		45.914		
+cm	195	43	Eric	Haiss	2004 Lynx Lynx B Solo Vee	Black			Yes	662430	05/31/25			No	No	Yes	Yes		100.00	PrePaid	No	No	No	2	1		No		Hoosier		63	2	dns				63										
+cm	95	43	Ethan	Haiss	2004 Lynx Lynx B Solo Vee	Black			Yes	662431	05/31/25			No	No	Yes	Yes		100.00	PrePaid	No	No	No	2	1		No		Hoosier		64	1	dns				64										
+fm	174	46	Douglas	Harvey	1986 Red Devil Phaneuf	Blue			Yes	243520	05/31/25			Yes	No	Yes	Yes		80.00	PrePaid	No	No	No	2	1		No			40.968	4	1	40.968	[-]0.526	-	37.567	13	4	44.280		43.241		41.686		40.968		
+prosts	76	51	Christopher	Heideman	1989 Honda CRX Si	Black			No					Yes	No	Yes	Yes		80.00	PrePaid	No	No	No	1	2		No			44.546	9	3	36.349	+0.632	+1.395	36.349	4	4	47.112	1	45.252	1	44.677		44.546		
+cs	111	4	Brendan	Hladilek	Mazda Mx5	Zircon Sand			No					Yes	No	Yes	Yes		110.00	PrePaid	No	No	No	2	1		No		Falken	53.664	51	4	53.664	+4.946	+8.722	43.628	51	3	57.162		55.196		53.664		53.664		
+xa	16	26	Chad	Hladilek	2022 Subaru BRZ	Black			Yes	708646	06/30/25			Yes	No	Yes	Yes		90.00	PrePaid	No	No	No	2	1		No		Michelin	48.414	31	2	48.414	+1.762	+1.762	40.861	38	3	51.835		49.889		48.414		48.503		
+gs	7	8	Thomas	Hudak	2023 Volkswagen GTI	White			Yes	7795	03/31/25			No	No	Yes	Yes		40.00	PrePaid	No	No	No	2	1		No		Bridgestone		56	2	dns				56										
+xa	9	26	Trysten	Hyder	2021 Subaru Wrx	White			No					No	No	Yes	Yes		110.00	PrePaid	No	No	No	2	1		No		Continental		60	3	dns				60										
+bm	16	42	Conner	Jurs	2002 Custom D sports Racer	Yellow			Yes	610755	07/31/24			No	No	Yes	Yes		80.00	PrePaid	No	No	No	2	1		No		Hankook		62	1	dns				62										
+ss	81	1	Shawn	Kelly	2023 Chevrolet STINGRAY	RED			Yes	497553	02/28/25			Yes	No	Yes	Yes		85.00	PrePaid	No	No	No	2	1		No			47.518	27	1	47.518	-	-	39.677	31	4	49.397		48.941		47.640		47.518		
+xa	95	26	KURT	KLINGBEIL	2014 Scion	Copper			Yes	507453	05/31/25			Yes	No	Yes	Yes		40.00	PrePaid	No	No	No	2	1		No			46.652	25	1	46.652	[-]1.762	-	39.374	28	4	49.127		48.844		48.503		46.652		
+bs	3	3	Alyssa	Koster	2023 Honda Civic Type R	Gray			No		06/13/23			No	No	Yes	Yes		65.00	PrePaid	No	No	No	2	1		No				52	3	dns				52										
+bs	13	3	Eric	Koster	2023 Honda Civic Type R	Gray			No		06/13/23			No	No	Yes	Yes		65.00	PrePaid	No	No	No	2	1		No				53	2	dns				53										
+stu	81	16	Dallas	Latsch	1998 Chevrolet Corvette	Pewter			Yes	657677	05/31/25			No	No	Yes	Yes		40.00	PrePaid	No	No	No	1	2		No		Falken		58	1	dns				58										
+prokm	33	51	Larry	MacLeod	2014 Tonykart Shifter	Grey/Chrome			Yes	255586	08/31/24			Yes	No	Yes	Yes		80.00	PrePaid	No	No	No	1	2		No		Other	38.065	1	2	35.666	+0.712	+0.712	35.666	2	4	43.446		40.393	1	39.554		38.065		
+km	159	48	Sean	Mahan	2001 Tony Kart Mitox	Black			Yes	632063	05/31/25			No	No	Yes	Yes		95.00	PrePaid	No	No	No	2	1		No		MG		66	1	dns				66										
+sts	51	13	Richard	Mangus	2002 Ford Focus	Red white blue			Yes	553822	04/30/25			Yes	No	Yes	Yes		80.00	PrePaid	No	No	No	1	2		No		Falken	53.228	50	1	53.228	-	-	43.434	50	4	55.034		54.321	1	61.213		53.228		
+profs	15	51	Chris	McCarthy	2014 Ford Mustang GT	Silver			Yes	417503	03/31/25			Yes	No	Yes	Yes		80.00	PrePaid	No	No	No	1	2		No		Bridgestone	50.237	38	21	40.892	+0.979	+5.938	40.892	39	3	52.602		51.097	dnf	50.237		50.437		
+ds	51	5	Nathan	McCoy	2017 Ford Focus RS	Blue			Yes	634894	06/30/24			Yes	No	Yes	Yes		90.00	PrePaid	No	No	No	2	1		No		Falken	47.049	26	1	47.049	-	-	38.109	18	3	49.793		47.742		47.049		48.036	dnf	
+cs	6	4	sean	mcnally	2016 Mazda MX-5	Soul Red			Yes	441336	04/30/25			Yes	No	Yes	Yes		100.00	PrePaid	No	No	No	2	1		No			48.718	32	3	48.718	+0.758	+3.776	39.607	30	3	51.543		50.794		48.718		46.792	1	
+ladieshs	17	50	Eran	Mikolowski	2024 Mazda 3	Grey			Yes	660501	06/30/24			Yes	No	Yes	Yes		80.00	PrePaid	No	No	No	2	1		No			50.836	47	3	39.957	+2.064	+2.310	39.957	33	4	50.401	dnf	50.374	dnf	50.464	1	50.836		
+proes	149	51	Nick	Mikolowski	2003 Mazda Miata	Silver			Yes	660500	06/30/24			Yes	No	Yes	Yes		80.00	PrePaid	No	No	No	1	2		No			48.186	30	12	38.163	+0.460	+3.209	38.163	19	3	52.014		49.076		48.186		47.923	1	
+cs	41	4	Philip	Mitchell	2019 Mazda Miata Club	White			Yes	484430	04/30/25			Yes	No	Yes	Yes		100.00	PrePaid	No	No	No	2	1		No			44.942	12	1	44.942	[-]3.018	-	36.537	6	4	46.912		45.342		45.671		44.942		
+prosts	176	51	Nick	Nardin	1989 Honda Civic	White?			Yes	419740	04/30/25			Yes	No	Yes	Yes		80.00	PrePaid	No	No	No	1	2		No		Yokohama	46.205	23	11	37.703	+0.371	+2.749	37.703	15	4	51.512		46.447		46.754		46.205		
+gs	53	8	Keith	Newbury	2003 Saab 9-3 Sedan	Black			Yes	467099	03/31/25			Yes	No	Yes	Yes		90.00	PrePaid	No	No	No	2	1		No			50.588	43	1	50.588	-	-	40.268	36	4	51.899		51.580		51.186		50.588		
+fm	198	46	Joshua	Pertzsch	1985 KBS				Yes	449155	12/31/24			Yes	No	Yes	Yes		80.00	PrePaid	No	No	No	2	1		No		Hoosier	41.494	6	1	41.494	+0.526	+0.526	38.050	17	4	42.442	dnf	41.333	1	46.069	2	41.494		
+fm	98	46	Steve	Pertzsch	KBS F Mod	Gray			Yes	474321	08/31/24			Yes	No	Yes	Yes		80.00	PrePaid	No	No	No	2	1		No		Hoosier	43.699	8	3	43.699	+2.205	+2.731	40.072	35	3	49.131		44.720		43.699		44.490		
+cm	71	43	Ralph	Prewett	1974 Dulon 15	Orange/Black			Yes	554887	05/31/25			Yes	No	Yes	Yes		90.00	PrePaid	No	No	No	2	1		No		Hoosier	45.768	19	1	45.768	-	-	41.099	42	3	46.927		42.949	dnf	43.768	1	44.712	1	
+probs	173	51	Andrew	Ramos	Honda Civic Type R	White			Yes	444262	2024-06-30	0000-00-00		No	No	Yes	Yes		90.00	PrePaid	No	No	No	1	2		No				69	2	dns				69										
+profm	79	51	Keith	Roberts	2004 Invader	Multi-Color			Yes	315167	06/30/24			Yes	No	Yes	Yes		90.00	PrePaid	No	No	No	1	2		No			40.198	3	6	36.861	+0.378	+1.907	36.861	8	4	48.050	dnf	41.427		40.524		40.198		
+procp	11	51	Kyle	Roberts	1981 Buick Regal	Blue			Yes	525823	10/31/24			Yes	No	Yes	Yes		90.00	PrePaid	No	No	No	1	2		No		Hoosier	46.038	22	17	39.408	+0.340	+4.454	39.408	29	4	49.441	dnf	46.908		48.671	dnf	46.038		
+stx	84	14	Greg	Rozelle	2005 BMW 325xi	Baby blu			No	600756	06/13/23			Yes	No	Yes	Yes		100.00	PrePaid	No	No	No	1	2		No		Falken	50.389	39	2	50.389	+5.637	+5.637	41.268	44	4	52.000		50.248	1	50.460		50.389		
+xp	13	30	Dave	Santose	1990 Nissan 240sx	Green			No					No	No	Yes	Yes		60.00	PrePaid	No	No	No	2	1		No		Falken		61	1	dns				61										
+bs	7	3	John	Santose	2007 Saturn Sky Redline	Green			No					No	No	Yes	Yes		60.00	PrePaid	No	No	No	2	1		No		Goodyear		54	4	dns				54										
+profs	115	51	Andrew	Schembri	2014 Ford Mustang	Silver			Yes	393217	03/31/25			Yes	No	Yes	Yes		80.00	PrePaid	No	No	No	1	2		No		Bridgestone	47.602	28	15	38.748	+0.154	+3.794	38.748	22	4	48.777		54.392	2	47.914		47.602		
+proes	49	51	Marty	Schiratti	2003 Mazda miata	silver			Yes	198859	08/31/24			Yes	No	Yes	Yes		90.00	PrePaid	No	No	No	1	2		No		Bridgestone	49.026	35	15	38.828	+0.080	+3.874	38.828	23	3	50.779		49.817		49.026		49.234	1	
+str	93	15	Tim	Schirtzinger	1994 Mazda Miata	Red			Yes	508309	09/30/24			Yes	No	Yes	Yes		110.00	PrePaid	No	No	No	1	2		No			50.586	42	1	50.586	-	-	42.087	48	4	57.996		51.145		51.278		50.586		
+progs	57	51	Wil	Shapton	2013 Ford Focus ST	Tangerine			No	608618	06/13/23			Yes	No	Yes	Yes		60.00	PrePaid	No	No	No	1	2		No			48.978	34	17	38.986	+0.158	+4.032	38.986	25	3	59.406		50.298		48.978		72.184	1	
+fs	192	7	David	Siniff	2018 Ford Mustang	Red			Yes	205710	07/31/24			Yes	No	Yes	Yes		80.00	PrePaid	No	No	No	1	2		No		Falken	50.613	45	1	50.613	-	-	41.199	43	4	49.384	1	70.783	2	50.781	dnf	50.613		
+profs	92	51	Michael	Siniff	2018 Ford Mustang	Red			Yes	370804	09/30/24			Yes	No	Yes	Yes		80.00	PrePaid	No	No	No	1	2		No			44.820	11	4	36.483	+0.134	+1.529	36.483	5	4	47.834		46.817		45.618		44.820		
+prosth	29	51	David	Spilling	2021 Subaru WRX	Blue			Yes	658287	06/30/24			Yes	No	Yes	Yes		80.00	PrePaid	No	No	No	1	2		No			45.423	15	5	36.883	+0.022	+1.929	36.883	9	4	49.162		46.076		45.574		45.423		
+as	17	2	John	Stefano	2009 Porsche 911				No		2024-06-16	0000-00-00		Yes	Yes		No		0.00		No	No	No	2	1		No			50.598	44	1	50.598	-	-	41.692	47	4	53.512		50.307	dnf	50.829		50.598		
+smf	7	36	Bryan	Swenson	2014 Volkswagen Sportwagen	White			Yes	685511	06/30/24			Yes	No	Yes	Yes		110.00	PrePaid	No	No	No	2	1		No		Falken	49.935	37	1	49.935	-	-	42.444	49	4	52.214	dnf	49.291	1	50.557	1	49.935		
+proep	58	51	Matt	Tuhro	1991 Honda CRX	Red			Yes	370060	06/30/24			Yes	No	Yes	Yes		90.00	PrePaid	No	No	No	1	2		No		Avon	44.982	13	14	38.594	+0.220	+3.640	38.594	21	4	46.605		52.082		45.878		44.982		
+novicecs	38	49	Elizabeth	Werly	Mazda RX8	Orange			No		2024-06-15	0000-00-00		No	Yes		No		0.00		No	No	No	2	1		No				67	1	dns				67										
+probs	161	51	Sheri	Wolford	2024 Audi				Yes	435228	09/30/24			Yes	No	Yes	Yes		80.00	PrePaid	No	No	No	1	2		No			48.794	33	20	39.913	+0.505	+4.959	39.913	32	4	53.403	1	50.211		48.969		48.794		
+probs	61	51	Troy	Wolford	2024 Audi				Yes	435196	09/30/24			Yes	No	Yes	Yes		80.00	PrePaid	No	No	No	1	2		No			45.594	17	8	37.295	+0.412	+2.341	37.295	10	3	46.819		46.726		45.594		45.699		
+bs	25	3	Jen	Wong	2023 Honda Civic Type R	White			Yes	442943	05/31/25			No	No	Yes	Yes		80.00	PrePaid	No	No	No	2	1		No		Bridgestone		55	1	dns				55										
+stx	27	14	Justin	Wrighton	2013 Scion FRS	Dark Blue			Yes	448384	11/30/24			Yes	No	Yes	Yes		90.00	PrePaid	No	No	No	1	2		No		Yokohama	44.752	10	1	44.752	[-]5.637	-	36.651	7	3	46.823		44.237	1	44.752		44.022	1	
