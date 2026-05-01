@@ -164,15 +164,14 @@ h2{
 }
 	
 #content {
-	width:75%;
 	background-color: #808080;
 	position: absolute;
 	left: 230px;
+	right: 5px;
 	top: 110px;
 	border-style: inset;
 	border-color: grey;
 	padding: 10px;
-	margin-right: 5px;
 }
 
 ul {
